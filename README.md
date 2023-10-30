@@ -3,7 +3,7 @@
 <img src='img/helmet.png'/>
 </td>
 <td width=800>
-Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Open Source Forward. Learn more at https://gitcoin.co
+Gitcoin2 is a constellation of Ethereum-based smart contracts designed to Push Open Source Forward. Learn more at https://gitcoin.co
 </td>
 </table>
 
